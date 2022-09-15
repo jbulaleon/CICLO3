@@ -1,1 +1,1 @@
-a = "hola mundo"
+text = "hola mundo"
